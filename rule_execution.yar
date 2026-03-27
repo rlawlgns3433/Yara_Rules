@@ -1,0 +1,5 @@
+include "./search_keyword"
+include "./search_keyword_nocase"
+include "./search_keyword_multi-rule"
+include "./search_hex"
+include "./search_email"
